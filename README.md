@@ -1,0 +1,1 @@
+# Parlayan-d-ner-telefona
